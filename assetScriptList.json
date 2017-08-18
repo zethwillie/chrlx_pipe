@@ -1,0 +1,36 @@
+{
+	"modeling":
+	{
+		"cometRename":["mel", "cometRename", "for renaming objects in scene"],
+		"chrlxClash":["py", "import chrlx_pipe.chrlxClash as cclsh; reload(cclsh); cclsh.clash(0)", "checks scene for transform/shape node name clashes. Reports to the script editor."],
+		"zbw_curveTools":["py", "import zTools.zbw_curveTools as zct; reload(zct); zct.curveTools()", "some basic tools for working with curves"],
+		"selectionBuffer":["py", "import zTools.selectionBuffer as zsb; reload(zsb); zsb.selectionBuffer()", "saves and restores a selection"],
+		"zbw_shapeScale":["py", "import zTools.zbw_shapeScale as zss; reload(zss); zss.shapeScale()", "scales selected objects by SHAPE only"],
+		"zbw_snap":["py", "import zTools.zbw_snap as snp; reload(snp); snp.snap()", "helps with snapping objects to other objects"],
+		"smModelClean":["mel", "smModelClean", "options for cleaning up a modeling scene"],
+		"geoSpheres":["mel", "geoSpheres", "make spheres based on various platonic solids"],
+		"Ninja_Rename":["mel", "Ninja_Rename", "renaming/selection tool"], 
+		"abSymMesh":["mel", "abSymMesh", "for creating symmetrical blend shapes"]
+	},
+	"rigging":
+	{
+		"zbw_rigTools":["py", "import zTools.zbw_rigTools as rTools; reload(rTools); rTools.rigTools()", "tools to create controls and open some other functions"],
+		"zbw_attributes":["py", "import zTools.zbw_attributes as zattr; reload(zattr); zattr.attributes()", "attribute utilities (show/hide, connect, etc)"],
+		"cometRename":["mel", "cometRename", "for renaming objects in scene"],
+		"cometJointOrient":["mel", "cometJointOrient", "for helping to reorient joints correctly"],
+		"curveExtrudeRig":["py", "import zTools.curveExtrudeRig as crxtr; reload(crxtr);crxtr.curveExtrude()", "tool to build extrusion rig from curves"],
+		"Ninja_Rename":["mel", "Ninja_Rename", "renaming/selection tool"], 
+		"abSymMesh":["mel", "abSymMesh", "for creating symmetrical blend shapes"]
+	},
+	"shading":
+	{
+		"cometRename":["mel", "cometRename", "for renaming objects in scene"]
+	},
+	"charlex":
+	{
+		"smFileWin":["mel", "smFileWin", "opens the pipeline tools for the previous version of the pipeline"],
+		"lgtWin":["mel", "lgtWin", "open the lightWin tools for the previous version of the pipeline"],
+		"sendSceneToProject":["py", "import zTools.sendSceneToProject as sstp; reload(sstp); sstp.sendSceneToProject()", "window to send your current open scene to the import/export of a project asset"]
+	}
+
+}

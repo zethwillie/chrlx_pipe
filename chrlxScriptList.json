@@ -1,0 +1,78 @@
+
+{
+	"asset":
+	{
+		"modeling":
+		{
+			"cometRename":["mel", "cometRename", "for renaming objects in scene"],
+			"chrlxClash":["py", "import chrlx_pipe.chrlxClash as cclsh; reload(cclsh); cclsh.clash(0)", "checks scene for transform/shape node name clashes. Reports to the script editor."],
+			"zbw_curveTools":["py", "import zTools.zbw_curveTools as zct; reload(zct); zct.curveTools()", "some basic tools for working with curves"],
+			"selectionBuffer":["py", "import zTools.selectionBuffer as zsb; reload(zsb); zsb.selectionBuffer()", "saves and restores a selection"],
+			"zbw_shapeScale":["py", "import zTools.zbw_shapeScale as zss; reload(zss); zss.shapeScale()", "scales selected objects by SHAPE only"],
+			"zbw_snap":["py", "import zTools.zbw_snap as snp; reload(snp); snp.snap()", "helps with snapping objects to other objects"],
+			"smModelClean":["mel", "smModelClean", "options for cleaning up a modeling scene"],
+			"geoSpheres":["mel", "geoSpheres", "make spheres based on various platonic solids", "geoSpheresIcon.png"],
+			"Ninja_Rename":["mel", "Ninja_Rename", "renaming/selection tool"], 
+			"abSymMesh":["mel", "abSymMesh", "for creating symmetrical blend shapes"],
+			"zbw_shadingTransfer":["py", "import zTools.zbw_shadingTransfer as zst; reload(zst); zst.shadingTransfer()", "tools for transferring shaders and uv mapping from obj to obj"],
+			"clash_report":["py", "import chrlx_pipe.chrlxClash as ccl;reload(ccl);ccl.clash(fixClashes=0)", "will report any transform or shape clashes in the script editor"],
+			"clash_fix":["py", "import chrlx_pipe.chrlxClash as ccl;reload(ccl);ccl.clash(fixClashes=1)", "will report any transform or shape clashes in the script editor"]
+		},
+		"rigging":
+		{
+			"zbw_rigTools":["py", "import zTools.zbw_rigTools as rTools; reload(rTools); rTools.rigTools()", "tools to create controls and open some other functions"],
+			"zbw_attributes":["py", "import zTools.zbw_attributes as zattr; reload(zattr); zattr.attributes()", "attribute utilities (show/hide, connect, etc)"],
+			"cometRename":["mel", "cometRename", "for renaming objects in scene"],
+			"cometJointOrient":["mel", "cometJointOrient", "for helping to reorient joints correctly"],
+			"curveExtrudeRig":["py", "import zTools.curveExtrudeRig as crxtr; reload(crxtr);crxtr.curveExtrude()", "tool to build extrusion rig from curves"],
+			"Ninja_Rename":["mel", "Ninja_Rename", "renaming/selection tool"], 
+			"abSymMesh":["mel", "abSymMesh", "for creating symmetrical blend shapes"],
+			"zbw_shadingTransfer":["py", "import zTools.zbw_shadingTransfer as zst; reload(zst); zst.shadingTransfer()", "tools for transferring shaders and uv mapping from obj to obj"]
+		},
+		"shading":
+		{
+			"cometRename":["mel", "cometRename", "for renaming objects in scene"]
+		},
+		"charlex":
+		{
+			"smFileWin":["mel", "smFileWin", "opens the pipeline tools for the previous version of the pipeline"],
+			"lgtWin":["mel", "lgtWin", "open the lightWin tools for the previous version of the pipeline"],
+			"sendSceneToProject":["py", "import zTools.sendSceneToProject as sstp; reload(sstp); sstp.sendSceneToProject()", "window to send your current open scene to the import/export of a project asset"]
+		}
+
+	},
+	"shot":
+	{
+		"animation":
+		{
+			"cometRename":["mel", "cometRename", "for renaming objects in scene"],
+			"offsetAnmUI":["mel", "offsetAnmUI", "???"],
+			"tb_dupeAlong":["mel", "tb_dupeAlong", "???"],
+			"getBackPlate":["mel", "getBackPlate; getBackPlate", "Copies current camera's imagePlane sequence to local desktop for speed improvement. Click again to toggle back to network copy"],
+			"wireOnSel":["mel", "wireOnSel", "Hides selection wireframes on geo"],
+			"tb_add2set":["mel", "tb_add2set", "???"],
+			"bakeLocAndExportWin":["mel", "bakeLocAndExportWin", "???"], 
+			"snapTo":["mel", "snapTo", "???"],
+			"matchShadersInLayers_trigger":["mel", "matchShadersInLayers_trigger", "???"],
+			"exploreProject":["mel", "exploreProject", "???"],
+			"zbw_curveTools":["py", "import zTools.zbw_curveTools as zct; reload(zct); zct.curveTools()", "some basic tools for working with curves"],
+			"curveExtrude":["py", "import zTools.curveExtrudeRig as cer; reload(cer); cer.curveExtrude()", "tool for creating extrusion rigs on curves"],
+			"clash_report":["py", "import chrlx_pipe.chrlxClash as ccl;reload(ccl);ccl.clash(fixClashes=0)", "will report any transform or shape clashes in the script editor"],
+			"clash_fix":["py", "import chrlx_pipe.chrlxClash as ccl;reload(ccl);ccl.clash(fixClashes=1)", "will report any transform or shape clashes in the script editor"]			
+		},
+		"lighting":
+		{
+
+		},
+		"fx":
+		{
+			
+		},
+		"charlex":
+		{
+			"smFileWin":["mel", "smFileWin", "opens the pipeline tools for the previous version of the pipeline"],
+			"lgtWin":["mel", "lgtWin", "open the lightWin tools for the previous version of the pipeline"]		
+		}
+	}
+
+}

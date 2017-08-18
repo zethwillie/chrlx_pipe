@@ -1,0 +1,1302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"nameCheck"
+			],
+			[
+				"var",
+				"varPath"
+			],
+			[
+				"text",
+				"textScrollList"
+			],
+			[
+				"update",
+				"updateVariant〔function〕"
+			],
+			[
+				"fi",
+				"fixPath〔function〕"
+			],
+			[
+				"shot",
+				"shotFolder"
+			],
+			[
+				"vari",
+				"variantContents〔variable〕"
+			],
+			[
+				"createVar",
+				"createVarWin"
+			],
+			[
+				"createWin",
+				"createWinVarDirs〔function〕"
+			],
+			[
+				"createVa",
+				"createVariantUI"
+			],
+			[
+				"Mst",
+				"MstInfo"
+			],
+			[
+				"W",
+				"WSInfo"
+			],
+			[
+				"comp",
+				"compDir"
+			],
+			[
+				"make",
+				"makedirs"
+			],
+			[
+				"wo",
+				"workshops"
+			],
+			[
+				"import",
+				"import_export"
+			],
+			[
+				"hou",
+				"houdiniContents〔variable〕"
+			],
+			[
+				"curr",
+				"currentProject〔variable〕"
+			],
+			[
+				"clear",
+				"clearAll〔function〕"
+			],
+			[
+				"getc",
+				"getCurrentProject〔function〕"
+			],
+			[
+				"getE",
+				"getenv〔function〕"
+			],
+			[
+				"old",
+				"oldTFBG"
+			],
+			[
+				"popu",
+				"populateWindow"
+			],
+			[
+				"di",
+				"dict〔variable〕"
+			],
+			[
+				"ri",
+				"rig"
+			],
+			[
+				"clean",
+				"cleanShaders〔function〕"
+			],
+			[
+				"mst",
+				"mstWin"
+			],
+			[
+				"master",
+				"masterAssetUI"
+			],
+			[
+				"current",
+				"currentAssetFolder〔variable〕"
+			],
+			[
+				"incre",
+				"incrementWS"
+			],
+			[
+				"currentAssetM",
+				"currentAssetMtlWS〔variable〕"
+			],
+			[
+				"getAsset",
+				"getLatestAssetWS"
+			],
+			[
+				"restore",
+				"restoreAsses〔variable〕"
+			],
+			[
+				"Unar",
+				"UnarchAssets〔class〕"
+			],
+			[
+				"olda",
+				"oldAssNew〔variable〕"
+			],
+			[
+				"oldAss",
+				"oldAssNew"
+			],
+			[
+				"newAs",
+				"newAssRaw"
+			],
+			[
+				"geoRI",
+				"geoRigTLO"
+			],
+			[
+				"up",
+				"updateAssetInfo"
+			],
+			[
+				"increm",
+				"incrementFile"
+			],
+			[
+				"updat",
+				"updateAssetInfo〔function〕"
+			],
+			[
+				"type",
+				"typeShort"
+			],
+			[
+				"quick",
+				"quickInrementUI〔function〕"
+			],
+			[
+				"rigMst",
+				"rigMstIncrBut"
+			],
+			[
+				"geoM",
+				"geoMstIncrBut"
+			],
+			[
+				"re",
+				"replaceTextInFile〔function〕"
+			],
+			[
+				"replac",
+				"replaceTxt"
+			],
+			[
+				"rep",
+				"replaceTxt〔argument〕"
+			],
+			[
+				"newRig",
+				"newRigWS〔variable〕"
+			],
+			[
+				"newGEo",
+				"newGeoWS"
+			],
+			[
+				"newGE",
+				"newGeoWS"
+			],
+			[
+				"replace",
+				"replaceFiles〔variable〕"
+			],
+			[
+				"ol",
+				"oldGeoMst〔variable〕"
+			],
+			[
+				"oldA",
+				"oldAss〔argument〕"
+			],
+			[
+				"newAss",
+				"newAssName〔variable〕"
+			],
+			[
+				"newA",
+				"newAssName"
+			],
+			[
+				"oldGeo",
+				"oldGeoWS"
+			],
+			[
+				"copy",
+				"copyfile〔function〕"
+			],
+			[
+				"asset",
+				"assetPath"
+			],
+			[
+				"chr",
+				"chrlxFuncs〔module〕"
+			],
+			[
+				"na",
+				"nameTFG"
+			],
+			[
+				"ne",
+				"newTFBG"
+			],
+			[
+				"as",
+				"assTypeRBG"
+			],
+			[
+				"dup",
+				"dupeWin"
+			],
+			[
+				"creat",
+				"createAssDirs〔function〕"
+			],
+			[
+				"getAs",
+				"getSpotAssetList〔function〕"
+			],
+			[
+				"ma",
+				"makedirs〔function〕"
+			],
+			[
+				"clea",
+				"cleanPath〔variable〕"
+			],
+			[
+				"pass",
+				"passWin"
+			],
+			[
+				"pas",
+				"passWin"
+			],
+			[
+				"proj",
+				"projectSetter"
+			],
+			[
+				"dupli",
+				"duplicateAsset"
+			],
+			[
+				"wi",
+				"widgets〔variable〕"
+			],
+			[
+				"cr",
+				"crvsToAllkeyable〔function〕"
+			],
+			[
+				"tabL",
+				"tabLayout"
+			],
+			[
+				"assS",
+				"assSetListTSL"
+			],
+			[
+				"assCh",
+				"assCharListTSL"
+			],
+			[
+				"assP",
+				"assPropListTSL"
+			],
+			[
+				"chrl",
+				"chrlxNote〔variable〕"
+			],
+			[
+				"prom",
+				"promptDialog"
+			],
+			[
+				"dat",
+				"datetime〔class〕"
+			],
+			[
+				"file",
+				"fileInfo"
+			],
+			[
+				"ass",
+				"assetPath"
+			],
+			[
+				"Path",
+				"PathManager〔module〕"
+			],
+			[
+				"fileIN",
+				"fileInfoWin"
+			],
+			[
+				"fil",
+				"fileInfo〔module〕"
+			],
+			[
+				"info",
+				"infoDict"
+			],
+			[
+				"cu",
+				"currentGeoFolder〔variable〕"
+			],
+			[
+				"curre",
+				"currentProject〔variable〕"
+			],
+			[
+				"cle",
+				"cleanPath〔variable〕"
+			],
+			[
+				"project",
+				"projectCheck"
+			],
+			[
+				"maya",
+				"mayascripts_raw"
+			],
+			[
+				"geo",
+				"geoName"
+			],
+			[
+				"shape",
+				"shapeClash"
+			],
+			[
+				"detect",
+				"detectShapeClashes"
+			],
+			[
+				"may",
+				"mayaObjs〔variable〕"
+			],
+			[
+				"cla",
+				"clashingNames〔variable〕"
+			],
+			[
+				"ren",
+				"renameGrp〔variable〕"
+			],
+			[
+				"scl",
+				"sclFFG"
+			],
+			[
+				"rot",
+				"rotFFG"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"ro",
+				"rotFFG"
+			],
+			[
+				"trn",
+				"trnFFG"
+			],
+			[
+				"kep",
+				"keepNum〔variable〕"
+			],
+			[
+				"in",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"jnt",
+				"jntRadius"
+			],
+			[
+				"jointRadi",
+				"jointRadiusUI"
+			],
+			[
+				"currentAssetGe",
+				"currentAssetGeoWS〔variable〕"
+			],
+			[
+				"rigws",
+				"rigWSIncrBut"
+			],
+			[
+				"obj",
+				"objExists"
+			],
+			[
+				"ctrl",
+				"ctrlSizeTemplateCrv"
+			],
+			[
+				"pos",
+				"pos6〔variable〕"
+			],
+			[
+				"buil",
+				"buildInitialRigFiles〔function〕"
+			],
+			[
+				"rig",
+				"rigSetup"
+			],
+			[
+				"uni",
+				"uninitialize〔module〕"
+			],
+			[
+				"set",
+				"setList〔variable〕"
+			],
+			[
+				"body",
+				"bodyR〔variable〕"
+			],
+			[
+				"dire",
+				"directionR"
+			],
+			[
+				"R",
+				"RIGSETS"
+			],
+			[
+				"latest",
+				"latestWorkshop〔variable〕"
+			],
+			[
+				"is",
+				"isdir〔function〕"
+			],
+			[
+				"currentAs",
+				"currentAssetFolder"
+			],
+			[
+				"currentAsset",
+				"currentAssetFolder"
+			],
+			[
+				"currentA",
+				"currentAssetFolder"
+			],
+			[
+				"an",
+				"anms〔variable〕"
+			],
+			[
+				"cam",
+				"cams"
+			],
+			[
+				"color",
+				"colorFLO"
+			],
+			[
+				"colo",
+				"colorFLO"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assetWin.py",
+			"settings":
+			{
+				"buffer_size": 43577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shotWin.py",
+			"settings":
+			{
+				"buffer_size": 51886,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test16.py",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Windows",
+				"name": "print \"I'm in 2016!\""
+			}
+		},
+		{
+			"contents": "import maya.cmds as cmds\nimport maya.mel as mel\nfrom chrlx import utils\n\nimport os, fnmatch, shutil, sys, fileinput\n\n###################################################\n# helper scripts that do little functions for the pipeline\n# wherever possible, these should be generic (call/return from external scripts or manually)\n#####################################################\n\ncJobPaths = {\n	\"charPath\":\"assets/characters\",\n	\"propPath\":\"assets/props\",\n	\"setPath\":\"assets/sets\",\n	\"shotPath\":\"shots\"\n	}\n\n\ndef fixPath(path, *args):\n	\"\"\"cleans up the path for use in both win and linux. Remember to pass handmade paths as r'string'. \"\"\"\n	\n	if path:\n		cleanPath = path.replace(\"\\\\\", \"/\")\n		return cleanPath\n	else:\n		return Null\n\ndef getCurrentProject(*args):\n	\"\"\"returns the current project path\"\"\"\n\n	proj = cmds.workspace(q=True, act=True)\n	if proj:\n		cleanProj = fixPath(proj)\n		return cleanProj\n	else: \n		print \"chrlxFuncs: couldn't find a valid project\"\n		return proj\n\ndef setProject(path, *args):\n	\"\"\"given a path, this will set the project to the path\n	---needs a bit more error checking and cleaner way to deal with win vs linux paths\n	\"\"\"\n	#clean up the path for linux and win\n	fixedPath = fixPath(path)\n	#if the dir exists, then set the project to that\n	############\n	#check where to set up the render directories, caches, files, etc bc they won't be in the default locations\n	#maybe a separate script for that\n	############\n	if os.path.isdir(fixedPath):\n		mel.eval('setProject \"{}\";'.format(fixedPath))\n		ws = cmds.workspace(q=True, fn=True)\n		cmds.warning(\"You've set the the current project to: %s\"%(ws))\n	else:\n		cmds.warning(\"chrlxFuncs.setProject(): I can't find: {}. talk to a TD!\".format(fixedPath))\n\ndef getProjectAssetList(job, *args):\n	\"\"\"returns a list of lists (chars, props, sets), given a job path\"\"\"\n	cJob = fixPath(job)\n	chars = []\n	props = []\n	sets = []\n\n	charRoot = \"{0}/{1}\".format(cJob, cJobPaths[\"charPath\"])\n	propRoot = \"{0}/{1}\".format(cJob, cJobPaths[\"propPath\"])\n	setRoot = \"{0}/{1}\".format(cJob, cJobPaths[\"setPath\"])\n	dirs = [charRoot, propRoot, setRoot]\n	#check if the dir exists\n	for dir in dirs:\n		exists = os.path.isdir(dir)\n		if exists:\n			try:\n				if dir==charRoot:\n					chars = os.listdir(dir)\n					chars.sort()\n					chars = [x for x in chars if (x[0] != \".\" and x != \"archive\")]\n				elif dir==propRoot:\n					props = os.listdir(dir)\n					props.sort()\n					props = [x for x in props if (x[0] != \".\" and x != \"archive\")]\n				elif dir==setRoot:\n					sets = os.listdir(dir)\n					sets.sort()\n					sets = [x for x in sets if (x[0] != \".\" and x != \"archive\")]					\n			except:\n				cmds.warning(\"chrlxFuncs.getProjectAssetList: couldn't access {}\".format(dir))		\n		else:\n			cmds.warning(\"chrlxFuncs.getProjectAssetList: Couldn't find the {} path! Skipping.\".format(dir))\n	\n	return chars, props, sets\n\ndef getProjectShotList(job, *args):\n	\"\"\"given a job(spot) path, returns the list of folders in the shot path of that job\"\"\"\n\n	cJob = fixPath(job)\n	shotRoot = os.path.join(cJob, cJobPaths[\"shotPath\"])\n	try:\n		shots = os.listdir(shotRoot)\n		#clear out files\n		if shots:\n			return shots\n	except:\n		cmds.warning(\"chrlxFuncs.getProjectShotList: No directory!!\")\n\ndef referenceIn(scene, prefix, *args):\n	\"\"\"reference scenes, no namespace and will replace the obj name with the prefix arg\"\"\"\n	\n	#############\n	#---- need to check names in scene, increment if necessary\n	#\n\n	path = fixPath(scene)\n	newPath = path.replace(\"\\\\\", \"/\")\n	ref = cmds.file(path, reference= True, uns = False, rpr = prefix)\n	#maybe use parameter to push out a list of all the new nodes? \n	return ref\n\ndef removeReference(node, *args):\n	cmds.file(removeReference=True, referenceNode = refNode)\n	#look through ALLKEYABLE -find ref objs that line up \n\ndef makeDirectory(path, *args):\n	\"\"\"just makes a directory in the path if one doesn't exists\"\"\"\n\n	cPath = fixPath(path) #cleans the path if we're hand typing it\n	#check if the dir exists already\n	exists = os.path.isdir(path)\n	if not exists:\n		try:\n			os.makedirs(cPath)\n			cmds.warning(\"Just made directory: {}\".format(cPath))\n		except:\n			cmds.warning(\"chrlxFuncs.makeDirectory: Couldn't make: {0}. Error Type: {1}\".format(sys.exc_info()[0]))\n\ndef getAssetMaster(asset, assetPath, fType, *args):\n	\"\"\"takes the asset name and path to the geo, rig file and returns the path the master, return null if not there\"\"\"\n	\n	maya = \"{0}_{1}.ma\".format(asset, fType)\n	if (maya in os.listdir(\"{0}/{1}\".format(assetPath, fType))):\n		return(\"{0}/{1}/{2}\".format(assetPath, fType, maya))\n	else:\n		return None\n\ndef getLatestAssetWS(asset, assetPath, fType, *args):\n	\"\"\"given an asset base name, asset base directory, and type (\"rig\", \"mtl\" or \"geo\"), find the latest version of the WS in that dir, returns the full path to file\n	\"\"\"\n############- -- - - check if this is/has a directory (I'm getting an OS error)\n	ws = fnmatch.filter(os.listdir(\"{0}/{1}/workshops\".format(assetPath, fType)), \"{0}_{1}_ws_v[0-9]*.ma\".format(asset, fType))\n	\n	#find the highest number WS\n	sortNum = 0\n	sortWS = \"\" #the file name of the last workshop file\n	try:\n		for x in range(0, len(ws)):\n			#strip off the .ma, then get things after \"_v\". note this breaks if not named correctly!\n			num = int(ws[x].rpartition(\"_v\")[2].rstrip(\".ma\"))\n			if num > sortNum:\n				sortNum = num\n				sortWS = ws[x]\n	except:\n		pass\n		\n	if sortWS:\n		return \"{0}/{1}/workshops/{2}\".format(assetPath, fType, sortWS)\n	else: \n		return None\n		print \"found no workshop files for {}\".format(asset)\n\ndef getLatestShotWS(varPath,*args):\n	\"\"\"\n		-varPath = the full path the variant folder (...3d/shots/SHOT/TYPE/VAR)\n	\"\"\"\n	# file name = T#####shot010_anm_variant1.ma\n\n	pm = utils.PathManager(varPath)\n	jobNum = pm.jobShortname\n	shotName = pm.shotName\n	fType = pm.shotType\n	varName = os.path.basename(varPath)\n	wsBasename = \"{0}{1}_{2}_{3}\".format(jobNum, shotName, fType, varName)\n\n	ws = fnmatch.filter(os.listdir(\"{}/workshops\".format(varPath)), \"{0}_ws_v[0-9]*.ma\".format(wsBasename))\n	\n	#find the highest number WS\n	sortNum = 0\n	sortWS = \"\" #the file name of the last workshop file\n	try:\n		for x in range(0, len(ws)):\n			#strip off the .ma, then get things after \"_v\". note this breaks if not named correctly!\n			num = int(ws[x].rpartition(\"_v\")[2].rstrip(\".ma\"))\n			if num > sortNum:\n				sortNum = num\n				sortWS = ws[x]\n	except:\n		pass\n		\n	if sortWS:\n		return \"{0}/workshop/{1}\".format(varPath,sortWS)\n	else: \n		return None\n		print \"found no workshop files for {}\".format(shot)\n\ndef checkCurrentWSMatch(selectedAsset, fType, *args):\n	\"\"\"checks that the selected asset from win is actually the asset of the open scene. Puts up confirm dialog telling user this and returns 'cancel' if person decides not to continue\"\"\"\n	result = \"\"\n\n	#get asset from current open ws scene name\n	current = os.path.basename(cmds.file(q=True, sceneName = True))\n	test = \"{0}_{1}_ws\".format(selectedAsset, fType)\n	#strip off \"_v###.ma\" from open scene\n	if current[:-8] != test:\n		result = cmds.confirmDialog(t=\"Workshop Name Mismatch!\", m = \"Current scene: {0}\\n\\nSelected asset: {1}\\n\\nYou are attempting to save this to the {2} {3} folder!\".format(current, test, selectedAsset, fType), b = (\"Continue\", \"Cancel\"), db = \"Continue\", cb = \"Cancel\", ds = \"Cancel\", bgc = (.8, .6, .6))\n	return result\n\ndef checkCurrentMasterMatch(asset, fType, *args):\n	\"\"\"just a boolean to check whether the current scene's name lines up with the workshop format for the selected asset (in order to master)\"\"\"\n\n	check = False\n	currentScenePath = cmds.file(q=True, sceneName=True) #gets the full path\n	currentScene = os.path.basename(currentScenePath)[:-8]\n	wsFormat = \"{0}_{1}_ws\".format(asset, fType)\n	print \"chrlxFuncs.checkCurrentMasterMatch: \\ncurrentScene = {0}\\nwsFormat = {1}\".format(currentScene, wsFormat)\n	if currentScene == wsFormat:\n		check = True\n	return(check)\n\ndef incrementWS(name, namePath, fType, *args):\n	\"\"\"takes in the workshop path as filepath (incl file) \n		name is asset or shot name (i.e. \"man\")\n		namePath is main asset or shot folder (ie. . . .spot/3D/assets/chars/man)\n		fType is \"geo\", \"rig\", \"mtl\", \"anm\", \"lgt\", \"fx\"\n		- returns the full path to the new increment\n	\"\"\"\n	if fType == \"geo\" or fType == \"rig\" or fType == \"mtl\":\n		latestWsPath = getLatestAssetWS(name, namePath, fType)\n\n	if fType == \"lgt\" or fType == \"fx\" or fType == \"anm\":\n		latestWsPath = getLatestShotWS(name, namePath, fType)\n\n	#if filePath = None, then create a first path for newFile\n	if latestWsPath:\n		folder, doc = os.path.split(latestWsPath)\n		num = int(doc.rpartition(\"_v\")[2].rstrip(\".ma\"))\n\n		base = doc.rpartition(\"v\")[0]\n		incr = num + 1\n		newDoc = base + \"v{:0>3d}\".format(incr)\n		newFile = \"{0}/{1}\".format(folder, newDoc)\n\n	else:\n		wsFile = \"{0}_{1}_ws_v001\".format(name, fType)\n		newFile = \"{0}/{1}/workshops/{2}\".format(namePath, fType, wsFile)\n	return newFile\n\ndef getLastAssetMasterVersion(asset, assetPath, fType, *args):\n	\"\"\"given an asset base name and the master version folder path, return the latest master version file path\"\"\"\n\n	if asset and assetPath and fType:\n\n		ws = fnmatch.filter(os.listdir(\"{0}/{1}/past_versions\".format(assetPath, fType)), \"{0}_{1}_v[0-9]*.ma\".format(asset, fType))\n		\n		#find the highest number WS\n		sortNum = 0\n		sortWS = \"\" #the file name of the last workshop file\n		try:\n			for x in range(0, len(ws)):\n				#strip off the .ma, then get things after \"_v\". note this breaks if not named correctly!\n				num = int(ws[x].rpartition(\"_v\")[2].rstrip(\".ma\"))\n				if num > sortNum:\n					sortNum = num\n					sortWS = ws[x]\n		except:\n			pass\n			\n		if sortWS:\n			return \"{0}/past_versions/{1}\".format(assetPath,sortWS)\n		else: \n			return None\n\n	else:\n		cmds.warning(\"chrlxFuncs.getLastAssetMasterVersion: you haven't given me all the args I need\")\n		return \"Abort\"\n\n\n\ndef getShotMaster(varName, typePath, *args):\n	\"\"\"check whether theres an anm file and returns path\"\"\"\n\n	pass\n	# mayaF = \"%s_anm.ma\"%shot\n	# if (mayaF in os.listdir(path)):\n	# 	return(\"%s/%s\"%(path, mayaF))\n	# else:\n	# 	return None\n\ndef getJobNumber(jobName, *args):\n	\"\"\"just pulls the 6 digit job number itself out of the charlex job name\"\"\"\n	jobNum = jobName.rpartition(\"_\")[2]\n	if len(jobNum) == 6:\n		return(jobNum)\n	else:\n		return(\"\")\n\ndef getShotNumber(shot, *args):\n	\"\"\"just pulls out the shot number as a three digit int from the shot name\"\"\"\n	\n	num = shot.lstrip(\"shot\")\n	if len(num)== 3:\n		return num\n	else:\n		return \"\"\n\ndef createAssetIcon(refPath, asset, *args):\n	\"\"\"takes the char reference folder path and asset name, playblasts a frame and renames it correctly (PNG format)\"\"\"\n	#Get directory and asset name\n	fname = \"{0}/{1}\".format(refPath, asset)\n\n	im = cmds.playblast(filename = fname, forceOverwrite = 1, orn = 0, fmt = \"image\", frame = cmds.currentTime(q=True), fp=4, v=0, c=\"png\", wh=(154,154), p=100)\n\n	# # now strip the padding\n	nums = im.replace(\".####\", \".0000\")\n	base = im.rpartition(\".####\")\n	os.rename(nums, base[0] + \"Icon\" + base[2]) \n	\ndef openFolderInExplorer(path, *args):\n	\"\"\"takes in path and opens it in os folder\"\"\"\n	import subprocess\n\n	if sys.platform == \"win32\":\n		import webbrowser as browser\n		winPath = fixPath(path)\n		# text = 'explorer \"{0}\"'.format(path)\n		# subprocess.Popen(text)\n		win = path.replace(\"/\", \"\\\\\")\n		os.startfile(win)\n	elif sys.platform == \"darwin\":\n		pass\n	elif sys.platform == \"linux\" or sys.platform==\"linux2\":\n		linPath = fixPath(path)\n		subprocess.Popen(['xdg-open', linPath])\n\ndef moveFolder(source, target, *args):\n	\"\"\"moves a folder and contents to new location\"\"\"\n	#get asset folder \n	# use shutil.copytree(src, dst)\n	if source and target:\n\n		#####  test if the desitnation folder already exists, flash option to overwrite? \n		# shutil.copytree(source, target)\n		shutil.move(source, target)\n\n		return \"Moved - asset: \\n{0}\\nTo - Destination:\\n{1}\".format(source, target)\n	else: \n		return \"chrlxFuncs.moveFolder: wasn't given two paths to move\"\n\n		if cmds.window(\"assetWin\", exists=True):\n			import chrlxPipe.assetWin as assWin\n			assWin.populateWindow(asset)\n\ndef getLightList(*args):\n	\"\"\"returns all lights in the scene\"\"\"\n\n	lgtShp = cmds.ls(type=\"light\")\n	lights = []\n\n	if lgtShp:\n		for shp in lgtShp:\n			obj = cmds.listRelatives(shp, p=True)[0]\n			lights.append(obj)\n\n	return lights\n\ndef getCamList(*args):\n	\"\"\"returns all cams (not default) in scene\"\"\"\n\n	camShps = cmds.ls(type=\"camera\")\n	cams = []\n	camList = [\"front\", \"persp\", \"side\", \"top\"]\n	\n	if camShps:\n		for cam in camShps:\n			obj = cmds.listRelatives(cam, p=True)[0]\n			if obj not in camList:\n				cams.append(obj)\n			\n	return cams\n\ndef removeNamespace(*args):\n	\"\"\"looks in the current scene and removes namespaces\"\"\"\n	rem = [\"UI\", \"shared\"]\n	ns = cmds.namespaceInfo(lon=True, r=True)\n	for y in rem:\n		ns.remove(y)\n	ns.sort(key = lambda a: a.count(\":\"), reverse=True)\n	for n in ns:\n		ps = cmds.ls(\"{}:*\".format(n), type=\"transform\")\n		for p in ps:\n			cmds.rename(p, p.rpartition(\":\")[2]) \n		cmds.namespace(rm=n)\n	return(ns)\n\ndef mstCtrlTemplate(*args):\n	\"\"\"creates a master control template object for geo scenes\"\"\"\n	mstCtrl = cmds.curve(n=\"ctrlSizeTemplateCrv\", d=1, p=[[0.045038530330620184, 0.25951525008201387, -5.210460506620644], [1.3936049431985766, 0.2595152500820137, -5.032918370204105], [2.650268783640949, 0.2595152500820139, -4.512391164149015], [3.7293904876667763, 0.25951525008201365, -3.684351957336151], [4.557429694479641, 0.25951525008201354, -2.60523025331032], [5.077956900534729, 0.25951525008201354, -1.3485664128679486], [5.255499036951263, 0.25951525008201354, 3.832412260469572e-15], [5.077956900534727, 0.2595152500820132, 1.348566412867956], [4.5574296944796355, 0.25951525008201354, 2.605230253310326], [3.729390487666771, 0.25951525008201337, 3.6843519573361547], [2.650268783640938, 0.2595152500820134, 4.512391164149018], [1.3936049431985678, 0.2595152500820136, 5.032918370204106], [0.04503853033061642, 0.2595152500820139, 5.210460506620647], [-1.3035278825373362, 0.259515250082014, 5.032918370204104], [-2.560191722979707, 0.2595152500820138, 4.512391164149014], [-3.639313427005534, 0.2595152500820142, 3.684351957336151], [-4.467352633818398, 0.2595152500820135, 2.6052302533103218], [-4.987879839873487, 0.2595152500820144, 1.3485664128679502], [-5.165421976290027, 0.25951525008201404, -1.5546578037753924e-15], [-4.987879839873485, 0.2595152500820145, -1.3485664128679529], [-4.467352633818397, 0.25951525008201376, -2.6052302533103235], [-3.6393134270055336, 0.25951525008201437, -3.6843519573361525], [-2.5601917229797033, 0.25951525008201387, -4.512391164149015], [-1.3035278825373326, 0.259515250082014, -5.032918370204103], [0.045038530330620184, 0.25951525008201387, -5.210460506620644], [0.04503853033061907, -0.25951525008201276, -5.210460506620644], [1.3936049431985753, -0.2595152500820128, -5.032918370204105], [2.6502687836409473, -0.2595152500820128, -4.512391164149015], [3.7293904876667785, -0.2595152500820133, -3.684351957336151], [4.55742969447964, -0.25951525008201276, -2.60523025331032], [5.07795690053473, -0.2595152500820132, -1.3485664128679486], [5.255499036951268, -0.2595152500820131, 3.832412260469572e-15], [5.255499036951263, 0.25951525008201354, 3.832412260469572e-15], [5.255499036951268, -0.2595152500820131, 3.832412260469572e-15], [5.077956900534729, -0.25951525008201354, 1.348566412867956], [4.5574296944796355, -0.259515250082013, 2.605230253310326], [3.7293904876667727, -0.25951525008201326, 3.6843519573361547], [2.6502687836409393, -0.2595152500820128, 4.512391164149018], [1.3936049431985689, -0.25951525008201337, 5.032918370204106], [0.04503853033061624, -0.25951525008201304, 5.210460506620647], [0.04503853033061642, 0.2595152500820139, 5.210460506620647], [0.04503853033061624, -0.25951525008201304, 5.210460506620647], [-1.3035278825373373, -0.259515250082013, 5.032918370204104], [-2.560191722979707, -0.25951525008201276, 4.512391164149014], [-3.639313427005533, -0.2595152500820126, 3.684351957336151], [-4.467352633818397, -0.2595152500820125, 2.6052302533103218], [-4.987879839873487, -0.2595152500820122, 1.3485664128679502], [-5.165421976290028, -0.25951525008201276, -1.5546578037753924e-15], [-5.165421976290027, 0.25951525008201404, -1.5546578037753924e-15], [-5.165421976290028, -0.25951525008201276, -1.5546578037753924e-15], [-4.987879839873485, -0.25951525008201226, -1.3485664128679529], [-4.467352633818397, -0.2595152500820125, -2.6052302533103235], [-3.639313427005532, -0.2595152500820127, -3.6843519573361525], [-2.560191722979703, -0.25951525008201204, -4.512391164149015], [-1.303527882537332, -0.2595152500820125, -5.032918370204103], [0.04503853033061907, -0.25951525008201276, -5.210460506620644]])\n	cmds.rename(cmds.listRelatives(mstCtrl, s=True)[0], \"{}Shape\".format(mstCtrl))\n	cmds.select(clear=True)\n	\n	for a in [\"tx\", \"ty\", \"tz\", \"rx\", \"ry\", \"rz\"]:\n		cmds.setAttr(\"{0}.{1}\".format(mstCtrl, a), k=False)\n	cmds.setAttr(\"{}.overrideEnabled\".format(mstCtrl), 1)\n	cmds.setAttr(\"{}.overrideColor\".format(mstCtrl), 13)\n\ndef putFileInfo(fType = \"\", wsNum = 000, note = \"\", *args):\n	\"\"\"given args, will modify the open scene's file info:\n		info keys that will change: 'FILETYPE', 'USER', 'WORKSHOP', 'DATE', 'CHARLX_NOTE'\n		args are:\n		-fType (should be \"geo\", \"rig\", \"lgt\", \"anm\", \"fx\", [\"mtl\"?])\n		-[user will get info from open scene]\n		-workshop num (###)\n		-[date will get from open scene]\n		-note (some text string)\n	\"\"\"\n	user = mel.eval(\"getenv USER\")\n	date = cmds.date()\n\n	cmds.fileInfo(\"FILETYPE\", fType)\n	cmds.fileInfo(\"USER\", user)\n	cmds.fileInfo(\"WORKSHOP\", wsNum)\n	cmds.fileInfo(\"DATE\", date)\n	cmds.fileInfo(\"CHRLX_NOTE\", note)\n\ndef projectCheck():\n	\"\"\"if project is the correct schema (via chrlx.utils), then return to func, else throw error\"\"\"\n	proj = getCurrentProject()\n	pm = utils.PathManager(proj)\n	check = pm.spotSchema\n\n	if check == 2:\n		return(\"good\")\n	else:\n		return(None)\n\ndef crvsToAllkeyable(mst=None):\n	\"\"\"for rig mastering. This will put all crvs under the master into all keyable set\"\"\"\n	if not mst:\n		mst = \"GOD\"\n	if cmds.objExists(mst):\n		children = cmds.listRelatives(mst, ad=True, s=False)\n		crvs = []\n		if children:\n			for chld in children:\n				if cmds.objectType(chld) == \"transform\":\n					shp = cmds.listRelatives(chld, s=True)\n					if shp and cmds.objectType(shp[0]) == \"nurbsCurve\":\n						crvs.append(chld)\n\n		for crv in crvs:   \n			cmds.sets(crv, e=True, fe=\"ALLKEYABLE\" )\n\ndef getSpotAssetList(assFolder):\n	\"\"\"return list of all assets in a spot folder (incl arched assets). NOT paths, just asset names\n		-assFolder is the assetFolder under 3D in a spot folder\n	\"\"\"\n	if assFolder:\n		assets = []\n		types = [\"characters\", \"props\", \"sets\"]\n		for assType in types:\n			assTypeFolder = \"{0}/{1}\".format(assFolder, assType)\n			comps = os.listdir(assTypeFolder)\n			comps.remove(\"archive\")\n			for comp in comps:\n				assets.append(comp)\n			archiveFolder = \"{}/archive\".format(assTypeFolder)\n			archs = os.listdir(archiveFolder)\n			for arch in archs:\n				assets.append(arch)\n		return(assets)\n	else:\n		return(None)\n\n\ndef getSpotShotList(shotsFolder, *args):\n	\"\"\"return list of all shots in the given folder. NOT paths, just shot names\n		-shotsFolder arg is the \".../SPOT/3d/shots\" folder under 3D in a spot folder \n	\"\"\"\n	shots = []\n	if shotsFolder:\n		exclude = [\"archive\"] # any folders we should skip in search\n		shots = [x for x in (os.listdir(shotsFolder)) if (x not in exclude)]\n	return shots\n\ndef getShotVariantList(shotFolder, *args):\n	\"\"\"\n	return list of all variant names in a given shot\n	-shotFolder arg is the \".../SPOT/3d/shots/SHOT/TYPE\" folder (ie. a specific shot anm/lgt/fx folder)\n	\"\"\"\n	variants = []\n	if shotFolder:\n		exclude = [\"reference\", \"sourceImages\", \"import_export\", \"archive\", \"fx_data\", \"houdini\"] # any folders we should skip in search\n		variants = [x for x in os.listdir(shotFolder)]\n		if variants:\n			variants = list(set(variants)-set(exclude))\n	return variants\n\ndef getFilesInPath(path):\n	\"\"\"returns a list of files only in a path\"\"\"\n	files = []\n	for obj in os.listdir(path):\n		if os.path.isfile(os.path.join(path, obj)):\n			files.append(fixPath(os.path.join(path, obj)))\n\n	return files\n\ndef replaceTextInFile(filePath, searchTxt, replaceTxt):\n	\"\"\"opens the file and replaces [searchTxt] with [replaceTxt] in place in the file\"\"\"\n\n	fileData = None\n	with open(filePath, \"r\") as file:\n		fileData = file.read()\n		\n	fileData = fileData.replace(searchTxt, replaceTxt)\n	\n	with open(filePath, \"w\") as file:\n		file.write(fileData)\n",
+			"file": "chrlxFuncs.py",
+			"file_size": 20892,
+			"file_write_time": 131094418347320905,
+			"settings":
+			{
+				"buffer_size": 20374,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "createDirectories.py",
+			"settings":
+			{
+				"buffer_size": 11448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import maya.cmds as cmds\nimport maya.mel as mel\nimport os, sys,	subprocess\nfrom shutil import copyfile\nfrom functools import partial\nimport chrlx_pipe.chrlxFuncs as cFuncs\nreload(cFuncs)\nimport chrlx_pipe.chrlxClash as cClash\nreload(cClash)\nimport chrlx_pipe.masterWin as mstWin\nreload(mstWin)\nimport chrlx_pipe.cleanShaders as clnShd\nreload(clnShd)\n\n##############\n# functions and such for the mastering process of assets\n# some separate processes for geo and rigs\n# uses chrlxFuncs to do general things \n##############\n\n######### open separate window to promote past version to current master, (save ws version somewhere in scene? Scene info)\n######### this woudl be ws version itself for ws's and ws version for masters\n\nmWidget = {}\nassOptions = {\"note\":\"\", \"cam\":True, \"shd\":True, \"rig\":True}\n\n######### all of masterAsset AFTER button click? this will allow us to push through\ndef masterAsset(asset, assFolder, fType, batch=False, *args):\n	\"\"\"gets latest version of past_versions, args: assetName, assFolder (i.e. rig folder, lgt var folder, etc) fType (i.e. 'lgt', 'anm', 'geo', etc), batch is for batch mode (no UI) and is a bool\"\"\"\n\n	note = \"mastering!\"\n\n	# below has \"dict\" attr that will grab a dictionary from masterWin (\"note\":str, \"cam\":bool, \"shd\":bool, \"rig\":bool). use these vals to turn on funcs\n	if not batch:\n		assOptions = mstWin.masterAssetUI()\n		note = assOptions.dict['note']\n		if note == \"__CANCEL__\":\n			return \"__CANCEL__\"\n\n	masterFile = \"{0}_{1}\".format(asset, fType)\n\n	latestMasterVersion = cFuncs.getLastAssetMasterVersion(asset, assFolder, fType, *args) #check if there's a master\n	latestWorkshop = cFuncs.getLatestAssetWS(asset, assFolder, fType) #check the lastest workshop\n\n	if latestMasterVersion and (latestMasterVersion != \"Abort\"):\n		num = int(os.path.basename(latestMasterVersion).rstrip(\".ma\").rpartition(\"_v\")[2])\n		incrNum = \"{:0>3d}\".format(num + 1)\n\n	elif latestMasterVersion == \"Abort\":\n		cmds.warning(\"masterFuncs.masterAsset: There was some kind of issue with the paths to get the latest master for backup\")\n		return\n	\n	elif latestMasterVersion == None:\n		incrNum = \"001\"\n	\n	#create file name and full path\n	newPastVersion = \"{0}/{1}/past_versions/{2}_v{3}.ma\".format(assFolder, fType, masterFile, incrNum)\n\n	# does this line up with the ws file structure? 	\n	check = cFuncs.checkCurrentMasterMatch(asset, fType)\n\n	if not check:\n		#here we bail out if current scene isn't workshop of the scene you're trying to master (from window)\n		cmds.confirmDialog(t=\"SCENE MISMATCH\", m=\"Your current scene doesn't line up\\nwith the asset you've selected\\nin the asset window. . . \\n\\nMake sure you're in a workshop file\\nfor the asset you want to master!\")\n		return \"FILE MISMATCH - NO MASTER CREATED!\"\n\n	#copy current master to past masters and rename to new num \n	currentMaster = \"{0}/{1}/{2}.ma\".format(assFolder, fType, masterFile)\n	destination = \"{}\".format(newPastVersion)\n	currentWS = cmds.file(q=True, sceneName = True)\n	\n########### save current scene as latest workshop - note: \"MASTERING - \".format(currentWS)  is there a way to do this??? pass a note? maybe use an arg (bool) in to tell whether to use UI stuff\n	\n######### --- need to sort out fType for fileinfo mastering of rig file, right now it says \"geo\" in file info\n	#increment ws file from current\n	newWSFile = \"{}.ma\".format(cFuncs.incrementWS(asset, assFolder, fType))\n	cFuncs.putFileInfo(fType, incrNum, note)	\n\n	cmds.file(rename = newWSFile)\n	cmds.file(save=True, type=\"mayaAscii\")\n\n	#do the mastering stuff to the current file, if we bail at any stage, reopen the ws and don't save master\n	cmds.file(rename=currentMaster)\n	if fType == \"geo\":\n		masterTest = masterGeo(asset, assFolder)\n		if masterTest == \"AbortC\":\n			print \"trying to get latest ws file: {}\".format(newWSFile)\n			cmds.file(newWSFile, open=True, force=True )\n			return(\"Failed mastering at geo cleanup phase. Try again after fixing problems\")\n\n	if fType == \"rig\":\n		masterTest = masterRig(asset, assFolder)\n		if masterTest == \"AbortC\":\n			cmds.file(latestWorkshop, open=True, force=True )\n			return(\"Failed mastering at rig cleanup phase. Try again after fixing problems\")\n\n	if os.path.isfile(currentMaster): #check if there is a master file currently. If so, move it to the past versions\n		os.rename(currentMaster, destination)\n		print \"masterAsset.masterAsset:\\n------ moving: {0} \\n------ to: {1}\".format(currentMaster, destination)\n\n	cmds.file(save=True, type=\"mayaAscii\")\n\n	if fType == \"geo\":\n		#check if there's a rig workshop for this asset\n		rigWS = cFuncs.getLatestAssetWS(asset, assFolder, \"rig\")\n		print \"workshop rig file is:\", rigWS\n		if not (rigWS and os.path.exists(rigWS)) and assOptions.dict[\"rig\"]:\n			print \"-------Starting creation of rig files-------\"\n			initializeRigWS(asset, assFolder, \"rig\")\n\n		else:\n			print \"Not initializing rig!\"\n\n	#refresh the asset info in the asset win\n	if cmds.window(\"assetWin\", exists=True):\n		import chrlx_pipe.assetWin as assWin\n		assWin.populateWindow()\n\n	return \"Master created successfully: {0}\".format(currentMaster)\n\ndef masterGeo(asset, assetFolder, *args):\n	#make sure to stick info about the relevant workshop into the file for the \"promotePastVersion\" function later (promote them both)\n\n	# make saving a note mandatory, BUT make sure this DOESN\"T require user input when in headless mode (maybe just an arg to pass)\n	#bring up window\n	print \"\\n-------------------\\nDOING MASTER GEO STUFF HERE!\\n-------------------\"\n	clean = cleanAssetScene(\"geo\")\n	if clean == \"Abort\":\n		return(\"AbortC\")\n\n####### ------ tag this master with the workshop num to compare to latest?\n###### ------ if not mastering through, option to either go to new scene or open master?\n\ndef initializeRigWS(asset, assetFolder, *args):\n	\"\"\"will use standalone maya to create the initial rig ws file\"\"\"	\n################ ------------ use env variables to get these paths\n	print \"INITIALIZING RIG WORKSHOP\"\n	try:	\n		subprocess.call([\"C:/Program Files/Autodesk/Maya2016/bin/mayapy.exe\",\"H:/development/3D/maya/maya2015/scripts/chrlx_pipe/buildInitialRigFiles.py\", asset, assetFolder])\n		print \"FINISHED WITH RIG WS CREATION\"\n	except:\n		print \"DID NOT CREATE RIG WS\"\n\ndef masterRig(asset, assetFolder, *args):\n	#make sure to stick info about the relevant workshop into the file for the \"promotePastVersion\" function later (promote them both)\n	# Should group geo and put it group under the controller to start!!! (this will allow for auto-mastering)\n	# need to check whether there already is a scene in the ws folder? If not then go through geo ref process (prefix, setup, etc)\n\n	#make a copy from reffed geo, group it \n	# import geo file from reference. . . \n	print \"\\n-------------------\\nDOING MASTER RIG STUFF HERE!\\n-------------------\"\n	######## - am I returning something below?\n	clean = cleanAssetScene(\"rig\") \n	if clean == \"Abort\":\n		return(\"AbortC\")\n\n	# tag this master with the current rig ws to compare later. Also tag with latest geo ws? compare that too? \n\ndef cleanAssetScene(fType, *args):	\n	\"\"\"cleans up the stuff in the scene (deletes unwanted stuff, etc)\"\"\"\n#generically to geo and rig files\n	#remove namespaces\n	ns = cFuncs.removeNamespace()\n	print \"removed namespaces: {}\".format(ns)\n	\n	cfix = 1 #1 = fix the clashes, 0 = just report the clashes\n	cClash.clash(cfix)\n\n	# clean up the delete set\n	if cmds.objExists(\"deleteSet\"):\n		delStuff = cmds.sets(\"deleteSet\", q=True)\n		cmds.delete(delStuff)\n		try:\n			cmds.delete(\"deleteSet\")\n		except:\n			print \"Problem deleting the deleteSet\"\n\n	#import all refs\n	refs =  cmds.file(q=True, r=True)\n	for ref in refs:\n		refNode = cmds.referenceQuery(ref, rfn=True)\n		cmds.file(rfn=refNode, ir=True)\n\n	#delete image planes\n	ip = cmds.ls(type=\"imagePlane\")\n	print \"deleting image planes: {}\".format(ip)\n	if ip:\n		cmds.delete(ip)\n	\n	#delete camera bookmarks\n	bm = cmds.ls(type = \"cameraView\")\n	print \"deleting camera bookmarks: {}\".format(bm)\n	if bm:\n		cmds.delete(bm)\n\n	#get all lights and delete\n	lights = cFuncs.getLightList()\n	print \"deleting lights: {}\".format(lights)\n	if lights:\n		cmds.delete(lights)\n\n	#get extra cameras and delete\n	if assOptions[\"cam\"]:\n		cams = cFuncs.getCamList()\n		print \"deleting non-default cameras: {}\".format(cams)\n		if cams:\n			cmds.delete(cams)\n	\n	#delete all TIME BASED anim curves (not setdriven keys)\n	anmsT = cmds.ls(type = (\"animCurveTL\", \"animCurveTU\", \"animCurveTA\", \"animCurveTT\"))\n	if anmsT:\n		print \"deleting time-based anim curves: {}\".format(anmsT)\n		cmds.delete(anmsT)\n\n	#get rid of display layers, render layers, anm layers\n	dl = cmds.ls(type=\"displayLayer\")\n	if dl:\n		dl.remove(\"defaultLayer\")\n		print \"deleting display layers: {}\".format(dl)\n		cmds.delete(dl)\n\n	rl = cmds.ls(type = \"renderLayer\")\n	if rl:\n		rl.remove(\"defaultRenderLayer\")\n		print \"deleting render layers: {}\".format(rl)\n		cmds.delete(rl)\n\n	al = cmds.ls(type = \"animLayer\")\n	if al:\n		al.remove(\"BaseAnimation\")\n		print \"deleting anim layers: {}\".format(al)\n		cmds.delete(al)\n\n	#delete unknown nodes\n	uk = cmds.ls(type = \"unknown\")\n	if uk:\n		print \"deleting unknown nodes: {}\".format(uk)\n		for node in uk:\n			cmds.lockNode(node, l=False)\n		cmds.delete(uk)\n\n	#check for shaders\n	if assOptions[\"shd\"]:\n		clnShd.cleanShaders()\n\n	#grab list of all transforms\n	allGeo = cmds.listRelatives(cmds.ls(geometry = True), p=True)\n	#remove lattices from list\n	for g in allGeo:\n		if cmds.listRelatives(g, shapes=True, type=\"lattice\"):\n			allGeo.remove(g)\n\n	allTransforms = cmds.ls(type = \"transform\")\n\n	#get rid of face assigments (select only the first shader assigned)\n	for geo in allGeo:\n		shps = cmds.listRelatives(geo, s=True)\n		if shps:\n			for shp in shps:\n				sg = cmds.listConnections(shp, type=\"shadingEngine\")\n				if (sg and len(sg) > 1):\n					cmds.sets(geo, e=True, forceElement=sg[0]) \n					print \"Found more than one shader on {0}. Reassigning to {1}\".format(geo, sg[0])		\n	\n#if geo file . . . \n	if fType == \"geo\":\n\n		#delete history on all geo objects\n		cmds.delete(allGeo, ch=True)\n		\n		#delete deformers left over (should be none)\n		# for geo in allGeo:\n		# 	df = mel.eval(\"findRelatedDeformer {}\".format(geo))\n		# 	if df:\n		# 		print \"deleting deformers: {}\".format(df)\n		# 		cmds.delete(df)\n\n		#parent all transforms to world\n		for i in allGeo:\n			print \"------ {}\".format(i)\n			if cmds.listRelatives(i, p=True):\n				cmds.parent(i, world=True)\n	\n		#delete constraints\n		cnstrs = cmds.ls(type=\"constraint\")\n		print \"deleting constraints: {}\".format(cnstrs)\n		if cnstrs:\n			cmds.delete(cnstrs)\n		\n		#delete all sets\n		removeSets = [\"defaultLightSet\", \"defaultObjectSet\"]\n		setList = cmds.ls(et = \"objectSet\")\n		for rmSt in removeSets:\n			setList.remove(rmSt)\n		if setList:\n			cmds.delete(setList)\n\n		#delete all expressions\n		exprs = cmds.ls(type=\"expression\")\n		print \"deleting expressions: {}\".format(exprs)\n		if exprs:\n			cmds.delete(exprs)\n\n		#delete all UNIT BASED anim curves (sdks, etc)\n		sdkAnms = cmds.ls(type = (\"animCurveUL\", \"animCurveUU\", \"animCurveUA\", \"animCurveUT\"))\n		if sdkAnms:\n			print \"deleting unit-based anim curves: {}\".format(sdkAnms)\n			cmds.delete(sdkAnms)\n		\n		allTransforms = cmds.ls(type = \"transform\")	\n\n		#delete groups - because DAG should be flattened we can just delete a transform w/o children\n		grps = [x for x in allTransforms if not cmds.listRelatives(x, shapes=True)]\n		if grps:\n			print \"deleting empty groups: {}\".format(grps)\n			cmds.delete(grps)\n		\n		allTransforms = cmds.ls(type = \"transform\")\n		#delete connections(should be no more anim, constraints at this point, so these would be direct connections) \n		for trans in allTransforms:\n			#disconnect all channelbox channels\n			cons = cmds.listConnections(trans, plugs=True, s=True)\n\n			if cons:\n				for con in cons:\n					dest = cmds.connectionInfo(con, dfs=True)[0]\n					cmds.disconnectAttr(con, dest)\n		\n		#freeze transforms on geo\n		print \"Freezing all geo objects\"\n		cmds.makeIdentity(allGeo, apply=True)\n		\n		#delete all namespaces\n		cFuncs.removeNamespace()\n\n		#check for \"geo_\" name - warn out of this\n		geoName = cmds.ls(\"geo_*\")\n		if geoName:\n			cmds.warning(\"the following objects have 'geo_' as their prefix!\\n{}\".format(geoName))\n\n		#set displaySmoothness to 3\n		cmds.displaySmoothness(allGeo, polygonObject = 1)\n\n		#set ctrl size node\n		if cmds.objExists(\"*ctrlSizeTemplateCrv\"):\n			ctrl = cmds.ls(\"*ctrlSizeTemplateCrv\")[0]\n			#measure distance (10.421 is scale 1)\n			pos6 = cmds.pointPosition(\"{}.cv[6]\".format(ctrl))\n			pos18 = cmds.pointPosition(\"{}.cv[18]\".format(ctrl))\n			dist = pos6[0]-pos18[0]\n			factor = dist/10.421\n\n\n			rigScale = cmds.shadingNode(\"multiplyDivide\", asUtility=True, n=\"RIGDATA\")\n			cmds.addAttr(rigScale, ln=\"scaleCtrl\", at=\"float\", dv=1.0)\n			cmds.setAttr(\"{}.scaleCtrl\".format(rigScale), factor)\n			cmds.delete(ctrl)\n\n#if rig file . . . \n	print \"Doing rig cleanup stuff. . . \"\n	if fType == \"rig\":\n		if cmds.objExists(\"*RIGDATA\"):\n			rigDataStuff = cmds.ls(\"*RIGDATA\")\n			cmds.delete(\"*RIGDATA\")\n\n		# put all ctrls into ALLKEYABLE\n		cFuncs.crvsToAllkeyable()\n		print \"putting all crvs under god node into allkeyable set\"\n\n#again generically to both rig and geo\n	#optimize scene\n\n##########  rather . . . have one big master asset window that sets off the above processes\n\n# def masterGeoUI(asset, assetFolder, fType, *args):\n\n# 	if cmds.window(\"mstrGeoWin\", exists = True):\n# 		cmds.deleteUI(\"mstrGeoWin\")\n\n# 	mgWidget[\"win\"] = cmds.window(\"mstrGeoWin\", t=\"Master Geo Workshop\", w=100, h=120)\n# 	mgWidget[\"mainCLO\"] = cmds.columnLayout(w=100, h=120)\n\n# 	mgWidget[\"masterButton\"] = cmds.button(l=\"Master Asset\", w=100, h=40, c=partial(masterGeo, asset, assetFolder, \"geo\"))\n# 	mgWidget[\"cancelButton\"] = cmds.button(l=\"Cancel\", w=100, h=40)\n# 	mgWidget[\"pushButton\"] = cmds.button(l=\"Push Through Rigging\", w=100, h=40)	\n\n# 	cmds.showWindow(mgWidget[\"win\"])\n\ndef masterShot():\n	pass\n	#mmight not need to have breakout funcs from here for lgt, anm, fx, etc. . . \n\n#args should be asset, assetFolder, fType\n\n# def masterAssetUI(asset, assetFolder, fType, *args):\n# 	if cmds.window(\"mstWin\", exists = True):\n# 		cmds.deleteUI(\"mstWin\")\n		\n# 	mWidgets[\"win\"] = cmds.window(\"mstWin\", w=300, h=100, t=\"Master Window\")\n	\n# 	mWidgets[\"mainCLO\"] = cmds.columnLayout(w=300, h=100)\n# 	cmds.text(l=asset)\n# 	cmds.text(l=assetFolder)\n# 	cmds.text(l=fType)\n	\n# 	#options to freeze geo, if fType == \"geo\" then give option NOT to master through. . . \n	\n# 	mWidgets[\"mstBut\"] = cmds.button(l = \"Master\", w=300, h=30, bgc = (.5, .9, .5))\n	\n# 	cmds.showWindow(mWidgets[\"win\"])",
+			"file": "masterFuncs.py",
+			"file_size": 15015,
+			"file_write_time": 131088503862736482,
+			"settings":
+			{
+				"buffer_size": 14467,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PathMangerExamples.py",
+			"settings":
+			{
+				"buffer_size": 1630,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fileInfo.py",
+			"settings":
+			{
+				"buffer_size": 2363,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"package: di",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packege",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/chrlx_pipe_sublimePrj.sublime-project",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/H/development/3D/lib/python/chrlx/utils.py",
+		"/H/development/3D/lib/CHRLX/Utils.pm",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_rigTools.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/User/sublime_jedi.sublime-settings",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/testStuff.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/projectSetter.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/masterWin.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/cleanShaders.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/fileInfo.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/buildInitialRigFiles.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/chrlxDashboard.py",
+		"/H/development/3D/sbin/copyShot.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/shaderMan.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/unarchiveAssets.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/quickIncrement.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/rigSetup.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/jen.js",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/User/intro_snippet.sublime-snippet",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/chrlxClash.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/duplicate.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/dashboard.py",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/props/stickmanProp/rig/workshops/stickmanProp_rig_ws_v004.ma",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/Downloads/selectitemdialogui.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/initializeRigWorkshop.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/noteWindowStuff.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/replaceReferences.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/reworkCreateDirs.py",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/sets/testSet/rig/workshops/testSet_rig_ws_v008.ma",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/blahblah/rig/workshops/blahblah_rig_ws_v001.ma",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/testCharA/rig/workshops/testCharA_rig_ws_v015.ma",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/deleteme.ma",
+		"//Bluearc/GFX/jobs/advil_P12957/A_advilPm/scenes/master/char/bushTypeB/rig/workshop/bushTypeB_refRig.ma.v2",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/props/dupePropTest/rig/workshops/dupePropTest_rig_ws_v015.ma",
+		"/H/development/3D/maya/maya2015/test_data.json",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/test/rig/workshops/test_rig_ws_v003.ma",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/chrlxNamespace.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/chrlxFileWin.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2016/scripts/zbw_appendPath.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_clash.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/fileInfo.py",
+		"/G/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/dino/geo/dino_geo.ma",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_scripts/smFileWin.mel",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_scripts/fileInfoExternal.mel",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_shapeClash.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2016/prefs/dashboardDB.json",
+		"/G/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/dino/rig/workshops/dino_rig_ws_v015.ma",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_scripts/clasher.mel",
+		"/H/development/3D/config/directory-spots.config",
+		"/H/development/3D/config/directory-shots.config",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_transformBuffer.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_randomSelection.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2016/scripts/zbw_randomSelection.mel",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_animTools.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_animShift.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_jointRadius.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_delay.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/previsShaders.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/fishExpression.mel",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/python_rigger-master/legRig.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/jo_varFk.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_rig.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/python_rigger-master/baseLimb.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/testingREF.ma",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/mStandaloneOutput.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/Downloads/mStandaloneOutput.py",
+		"/G/jobs/charlex_testAreaB_T60174/B_restructure/3d/assets/characters/sphereTHing/rig/workshops/sphereTHing_rig_ws_v002.ma",
+		"/G/3D/sbin/copyShot.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cmdLineTest2.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_attributes.py",
+		"/H/development/3D/maya/maya2015/scripts/rig_scripts/smRigChannelCheck.mel",
+		"/H/development/3D/sbin/timesheet.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/reverseFoot.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_scriptList.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/python_rigger-master/armRig.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_smallIKStretch.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/reverseFoot",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_ribbon.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_spaceMatch.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/ribbonPremade.py",
+		"/H/development/3D/maya/maya2015/test_data.db",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/shotWin.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/createCharDirs.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/dashboard.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/chrlxFileWin.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/shotWin.py",
+		"/H/development/3D/sbin/jobDirectoryCreator.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/projectSetter.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/createDirectories.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/masterFuncs.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/chrlxFuncs.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/unarchiveAssets.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/assetWin.py",
+		"/H/Windows/My Documents/maya/2015-x64/prefs/dashboardDB.json",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/masterAsset.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/zbw_softDeformer.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlxPipe/__init__.py",
+		"//Bluearc/GFX/CHARLEX/personal/zeth/jobName_P#####/A_spotName_good/3d/workspace.mel",
+		"//Bluearc/GFX/jobs/charlex_testAreaB_T60174/B_restructure/A_testSpot/3d/workspace.mel",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/createCharDirs.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/dashboard.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/chrlxFuncs.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/chrlxFileWin.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/shotWin.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/assetWin.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/projectSetter.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/projectStructure_snippet.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/__init__.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/chlxAssetWin.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/linkTwoCurves.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zbw_python_tools-master/raycast.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zbw_python_tools-master/zbw_rig.py",
+		"/H/development/3D/maya/maya2015/scripts/zTools/chrlxPipe/latticeFix.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zbw_selectionBuffer.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zbw_python_tools-master/zbw_ribbon.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2015-x64/scripts/chrlxPipe/projectStructure_snippet.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2015-x64/scripts/chrlxPipe/chrlxFuncs.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2015-x64/scripts/chrlxPipe/chrlxFileWin.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2015-x64/scripts/chrlxPipe/dashboard.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/position.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/nodes.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/modules.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/surfaces.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/skinning.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cgmToolbox_10182012/cgm/lib/rigging.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%",
+			"%s",
+			"shotF",
+			"assetPath",
+			"asset",
+			"getProjectAssetList",
+			"getProjectAsset",
+			"shotInfoVarNameText",
+			"10",
+			"shotInfoNameText",
+			"oblique",
+			"shotAssListSetText",
+			"shotAssSetListTSL",
+			"type",
+			"Type",
+			"type",
+			"assDirect",
+			"assetFolder",
+			"proj",
+			"name",
+			"swidgets",
+			"createShotWin",
+			"lgt",
+			"lgtMstPrevBut",
+			"anmWSPrevBut",
+			"folder",
+			"fxDirect",
+			"rigDirect",
+			"rigContents",
+			"WSDirect",
+			"geoWSContents",
+			"assDirect",
+			"assetContents",
+			"assetFolder",
+			"awidgets",
+			"createAssWin",
+			"widgets",
+			"updateSceneName",
+			"),\n",
+			"200",
+			"25",
+			"40",
+			"25",
+			"anmWSLogTF",
+			"separator",
+			"but",
+			"assOptions",
+			"options",
+			"masterWindow",
+			"Form",
+			"form",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"mtlWSInfoBut",
+			"mtlWSOpenBut",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"Rig",
+			"rig",
+			"newAss",
+			"oldAss",
+			"newAss",
+			"assActionImpBut",
+			"WS",
+			"ws",
+			"WS",
+			"ws",
+			":\n",
+			"assFolder",
+			"copy",
+			"newAss",
+			"copyfile",
+			"oldGeoMst",
+			"oldGeoWS",
+			"newType",
+			"within that: \ncreate folders",
+			"Folder",
+			"folder",
+			"Folder",
+			"folder",
+			"exportFileBase",
+			"parseSceneFileName",
+			"asset",
+			"checkStage_decorator",
+			"cFuncs",
+			"staticmethod",
+			"wraps",
+			"checkVariant_decorator",
+			"150",
+			"300",
+			"oldProj",
+			"fileinfoexternal",
+			"current",
+			"Current",
+			"current",
+			"x",
+			"clashes",
+			"detectClash",
+			"transformClashDetect",
+			"1",
+			"0",
+			"rotFFG",
+			"chosen",
+			"widgets",
+			"mgWidget",
+			"22",
+			"20",
+			"True",
+			"k",
+			"True",
+			"False",
+			"True",
+			"WS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assetWin.py",
+					"settings":
+					{
+						"buffer_size": 43577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7602.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shotWin.py",
+					"settings":
+					{
+						"buffer_size": 51886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 402.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test16.py",
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_name": "print \"I'm in 2016!\"",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chrlxFuncs.py",
+					"settings":
+					{
+						"buffer_size": 20374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9852,
+								9852
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"codeintel": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8259.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "createDirectories.py",
+					"settings":
+					{
+						"buffer_size": 11448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6053.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "masterFuncs.py",
+					"settings":
+					{
+						"buffer_size": 14467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 502.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "PathMangerExamples.py",
+					"settings":
+					{
+						"buffer_size": 1630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								653
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fileInfo.py",
+					"settings":
+					{
+						"buffer_size": 2363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 921.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "shotWin.py",
+					"settings":
+					{
+						"buffer_size": 51886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1200,
+								1200
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 470.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.59266661518,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true
+}

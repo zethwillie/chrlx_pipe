@@ -1,0 +1,1627 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"incrWS"
+			],
+			[
+				"unl",
+				"unload"
+			],
+			[
+				"dup",
+				"dupeShot"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"unarc",
+				"unarchive"
+			],
+			[
+				"curve",
+				"curveExtrudeRig"
+			],
+			[
+				"comet",
+				"cometRename"
+			],
+			[
+				"cometn",
+				"cometJointOrient"
+			],
+			[
+				"shad",
+				"shading"
+			],
+			[
+				"modeling",
+				"modelingTLO"
+			],
+			[
+				"model",
+				"modeling"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"dic",
+				"dictionary	param"
+			],
+			[
+				"di",
+				"dictionary	param"
+			],
+			[
+				"this",
+				"thisShotFolder"
+			],
+			[
+				"shot",
+				"shotFolder"
+			],
+			[
+				"var",
+				"variant"
+			],
+			[
+				"textFi",
+				"textFieldGrp	function"
+			],
+			[
+				"radio",
+				"radioButtonGrp	function"
+			],
+			[
+				"spot",
+				"spotRefFolder	statement"
+			],
+			[
+				"createVa",
+				"createVarWin"
+			],
+			[
+				"job",
+				"jobNumber"
+			],
+			[
+				"houdini",
+				"houdiniDev"
+			],
+			[
+				"dele",
+				"deleteUI	function"
+			],
+			[
+				"open",
+				"openSceneFullPath	statement"
+			],
+			[
+				"set",
+				"setAttr"
+			],
+			[
+				"rng",
+				"rngMin"
+			],
+			[
+				"res",
+				"resH"
+			],
+			[
+				"Res",
+				"RESOLUTION"
+			],
+			[
+				"currR",
+				"currRng"
+			],
+			[
+				"def",
+				"defaultResolution"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"fild",
+				"fieldsToPass"
+			],
+			[
+				"curr",
+				"currRes"
+			],
+			[
+				"frame",
+				"framerate"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"ctrls",
+				"ctrlsUp"
+			],
+			[
+				"ctrl",
+				"ctrls"
+			],
+			[
+				"down",
+				"down"
+			],
+			[
+				"cr",
+				"crvType"
+			],
+			[
+				"center",
+				"centerLoc"
+			],
+			[
+				"low",
+				"lowBS"
+			],
+			[
+				"tmp",
+				"tmpCloseLow"
+			],
+			[
+				"high",
+				"highResCurves"
+			],
+			[
+				"close",
+				"closeLow"
+			],
+			[
+				"dwn",
+				"dwnSuf"
+			],
+			[
+				"fi",
+				"firstNameSuf"
+			],
+			[
+				"text",
+				"textFieldGrp"
+			],
+			[
+				"name",
+				"nameTFG"
+			],
+			[
+				"secon",
+				"secondNameSuf"
+			],
+			[
+				"nam",
+				"nameTFG"
+			],
+			[
+				"hi",
+				"highResCurves"
+			],
+			[
+				"lo",
+				"lowResCurves"
+			],
+			[
+				"cntr",
+				"cntrPiv2TFBG"
+			],
+			[
+				"upLoc",
+				"upLocTFBG"
+			],
+			[
+				"upL",
+				"upLoc2TFBG"
+			],
+			[
+				"up",
+				"upLoc2TFBG"
+			],
+			[
+				"cnt",
+				"cntrPiv2TFBG"
+			],
+			[
+				"textF",
+				"textFieldButtonGrp"
+			],
+			[
+				"in",
+				"instanceGrp"
+			],
+			[
+				"prx",
+				"prxyGrp"
+			],
+			[
+				"second",
+				"secondCrv"
+			],
+			[
+				"CBG",
+				"secondCBG"
+			],
+			[
+				"cn",
+				"cntrPivTFBG"
+			],
+			[
+				"tfg",
+				"tfgKey"
+			],
+			[
+				"typ",
+				"upTypeTFG"
+			],
+			[
+				"type",
+				"crvType"
+			],
+			[
+				"tfb",
+				"downCrvTFBG"
+			],
+			[
+				"ifg",
+				"numCtrlIFG"
+			],
+			[
+				"cbg",
+				"secondCBG"
+			],
+			[
+				"grou",
+				"groupFreeze"
+			],
+			[
+				"prxy",
+				"prxyCtrl"
+			],
+			[
+				"curveJn",
+				"curveJntRigUI"
+			],
+			[
+				"crv",
+				"crvRigJntWin"
+			],
+			[
+				"jnt",
+				"jntProxyGrpCtrls"
+			],
+			[
+				"snap",
+				"snapTo"
+			],
+			[
+				"ctr",
+				"ctrlCrv"
+			],
+			[
+				"loc",
+				"locGrp"
+			],
+			[
+				"pos",
+				"posList"
+			],
+			[
+				"obje",
+				"objectType"
+			],
+			[
+				"splineIk",
+				"splineIkBuild"
+			],
+			[
+				"last",
+				"lastIndex"
+			],
+			[
+				"te",
+				"textureRepeatU"
+			],
+			[
+				"splineIK",
+				"splineIKBuild"
+			],
+			[
+				"rnd",
+				"rndAttr"
+			],
+			[
+				"ma",
+				"maxx"
+			],
+			[
+				"float",
+				"floatCB"
+			],
+			[
+				"check",
+				"checkBox"
+			],
+			[
+				"conn",
+				"connectAttr"
+			],
+			[
+				"sx",
+				"sxFFG"
+			],
+			[
+				"scale",
+				"scaleCBG"
+			],
+			[
+				"rot",
+				"rotateCBG"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"obj",
+				"objSpace"
+			],
+			[
+				"ob",
+				"objSpace"
+			],
+			[
+				"get",
+				"getRandomFloat"
+			],
+			[
+				"che",
+				"checkBox"
+			],
+			[
+				"rand",
+				"randomizeTransforms"
+			],
+			[
+				"trans",
+				"transCB"
+			],
+			[
+				"col",
+				"columnLayout"
+			],
+			[
+				"attr",
+				"attrRCLO"
+			],
+			[
+				"att",
+				"attrCBG"
+			],
+			[
+				"sele",
+				"selectList"
+			],
+			[
+				"temp",
+				"tempBaseCap"
+			],
+			[
+				"base",
+				"baseCapGrp"
+			],
+			[
+				"ch",
+				"baseCapHeight"
+			],
+			[
+				"baseCap",
+				"baseCapGrp"
+			],
+			[
+				"fTe",
+				"fTextFull"
+			],
+			[
+				"fileTe",
+				"fileTexture"
+			],
+			[
+				"conne",
+				"connectionInfo"
+			],
+			[
+				"rpt",
+				"rptMult"
+			],
+			[
+				"orig",
+				"origCrv"
+			],
+			[
+				"off",
+				"offsetAdd"
+			],
+			[
+				"paren",
+				"parentCheck"
+			],
+			[
+				"CurveR",
+				"curveRebuild_originals_grp"
+			],
+			[
+				"curveRE",
+				"curveRebuild_originals_grp"
+			],
+			[
+				"roat",
+				"rotateY"
+			],
+			[
+				"flo",
+				"floatFieldGrp"
+			],
+			[
+				"grp",
+				"pastaRigSetupComponents_Grp"
+			],
+			[
+				"ext",
+				"extrCLO"
+			],
+			[
+				"new",
+				"newCap"
+			],
+			[
+				"cap",
+				"capRig"
+			],
+			[
+				"geo",
+				"geoVis"
+			],
+			[
+				"re",
+				"rebuild"
+			],
+			[
+				"dens",
+				"densityMult"
+			],
+			[
+				"rota",
+				"rotateCap"
+			],
+			[
+				"profile",
+				"profileOrig"
+			],
+			[
+				"cur",
+				"curveRebuild_originals_grp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assetWin.py",
+			"settings":
+			{
+				"buffer_size": 52777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shotWin.py",
+			"settings":
+			{
+				"buffer_size": 72728,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assetScriptList.json",
+			"settings":
+			{
+				"buffer_size": 2242,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		},
+		{
+			"file": "buttonsToLayout.py",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "createDirectories.py",
+			"settings":
+			{
+				"buffer_size": 10193,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "masterFuncs.py",
+			"settings":
+			{
+				"buffer_size": 26742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//Bluearc/GFX/CHARLEX/SharedServices/netlogon/CHRLX3D.bat",
+			"settings":
+			{
+				"buffer_size": 2532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/Downloads/4.txt",
+			"settings":
+			{
+				"buffer_size": 13216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chrlxFuncs.py",
+			"settings":
+			{
+				"buffer_size": 36476,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/development/3D/maya/maya2017/scripts/zTools/zbw_scriptList.py",
+			"settings":
+			{
+				"buffer_size": 3676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chrlxDashboard.py",
+			"settings":
+			{
+				"buffer_size": 1548,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/development/3D/lib/python/chrlx/utils/pathTests.py",
+			"settings":
+			{
+				"buffer_size": 28202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compareSceneInfo.py",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "masterWin.py",
+			"settings":
+			{
+				"buffer_size": 5500,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/development/3D/maya/maya2017/scripts/zTools/mayaDecorators.py",
+			"settings":
+			{
+				"buffer_size": 4234,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/development/3D/maya/maya2017/scripts/chrlx_scripts/userSetup.mel",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/copyshottest (1).py",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/H/development/3D/maya/maya2017/scripts/userSetup.py",
+			"settings":
+			{
+				"buffer_size": 1277,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"package: di",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packege",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/AppData/Roaming/Sublime Text 2/Packages/User/intro_snippet.sublime-snippet",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/assetWin.py",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/shotWin.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/exportFBX.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cleanUpTriples.py",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/fileInfo.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2017/scripts/edgeToGeo.mel",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2017/scripts/geoSpheres.mel",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/chrlxClash.py",
+		"/H/development/3D/sbin/jobDirectoryCreator.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2017/prefs/dashboardDB.json",
+		"/H/development/3D/config/MayaLauncher.py",
+		"/G/3D/maya/maya2017/scripts/zTools/zbw_rigTools.py",
+		"/H/Windows/My Documents/maya/2017/prefs/zbw_scriptListKeys.json",
+		"/H/Windows/My Documents/maya/2017/prefs/dashboardDB.json",
+		"/G/3D/lib/python/chrlx/utils/utils.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_smallIKStretch.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_rig.py",
+		"/H/development/3D/config/directory-shots.config",
+		"/H/development/3D/config/directory-shots-v2.config",
+		"/H/development/3D/config/directory-spots-v2.config",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_rigTools.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_splineIk.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/reverseFoot.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_curveTools.py",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/chrlxDashboard.py",
+		"/H/development/3D/lib/python/chrlx/utils/paths.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/curveExtrudeRig.py",
+		"/H/development/3D/maya/maya2017/scripts/zTools/zbw_curveJntRig.py",
+		"/G/jobs/hersheys_P13002/A_cookieCrunch/scenes/shot103/anm/workshop/shot103_anmRef.v3.ma",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/createDirectories.py",
+		"/H/development/3D/maya/maya2017/scripts/chrlx_pipe/shaderMan.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/stickToVerts.py",
+		"/G/3D/maya/maya2017/scripts/zTools/curveExtrudeRig.py",
+		"/G/3D/maya/maya2016/scripts/zTools/curveExtrudeRig.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/curveExtrudeRig.py",
+		"/H/development/3D/config/maya200X.bat",
+		"/H/development/3D/config/studio.aliases.bat",
+		"/G/3D/maya/maya2017/scripts/zTools/zbw_curveJntRig.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/scripts/flowAlongNurbsSurface.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/scripts/latticeTwistFix.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/scripts/makeCtrlsOnCurve.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/scripts/nukeStuff.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/createProxyGeo.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/connectAnim.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cardStuff.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/getReferenceInfo.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/getPVPos.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/geoFix_UV.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/fileInfo.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/rivet.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/layoutDialog.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/mStandaloneOutput.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/ooProjSetter.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/oldProjSetter.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/hiliteList.py",
+		"/H/development/3D/sbin/copyFiles.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/chrlxFuncs.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/createDirectories.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/masterFuncs.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/backgroundMaster.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/masterWin.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/buildInitialRigFiles.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/dashboard.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/chrlxDashboard.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/shotWin.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/assetWin.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/duplicate.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_math.py",
+		"/H/development/3D/sbin/copyshottest.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_rig.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_splineIk.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/reverseFoot.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/mayaDecorators.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_curveTools.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_curveJntRig.py",
+		"/H/development/3D/logs/copyshot/5006_None__NoneNone000.log",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_splineIK.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooToolbox.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/rigPrim_curves.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/rigPrim_bipedLimbs.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/triggered.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/poseSym.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/apiExtensions.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/cmdStrResolver.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/control.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/mappingUtils.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/zooToolboxPy/zooPyMaya/constants.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_randomAttrs.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_removeNamespaces.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_attributes.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_rigTools.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/maya/2016/scripts/zbw_randomTransform.mel",
+		"/H/development/3D/lib/python/chrlx/utils/pathTests.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_clash.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_shapeClash.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_scriptList.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_rigWin.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_model.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/addShot.pl - Shortcut.lnk",
+		"/H/development/3D/sbin/copyShot.py",
+		"/H/development/3D/lib/python/win/2.7/chrlx-setup.pth",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_randomSelection.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/previsShaders.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/curveStuf/addToSG.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_curveExtrude.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_cleanKeys.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_messageMapper.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/zbw_bBoxCtrl.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/fileInfo.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/projectSetter.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/rigSetup.py",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/chrlxClash.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/scripts/ctrlForEachObj.py",
+		"/H/development/3D/lib/python/chrlx/utils/emailer.py",
+		"/H/development/3D/lib/python/chrlx/utils/utils.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cmdLineTest2.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/softSelJnt.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/boudingBoxCtrl.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/jointRadius.py",
+		"//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/cmdLineTest.py",
+		"/H/development/3D/maya/maya2015/scripts/chrlx_pipe/shotWin.py",
+		"/G/3D/lib/python/chrlx/utils/paths.py",
+		"/H/development/3D/lib/python/chrlx/utils.pyc",
+		"/H/development/3D/maya/maya2016/scripts/chrlx_pipe/PathMangerExamples.py",
+		"/H/development/3D/maya/maya2016/scripts/zTools/cometRename.mel",
+		"/G/jobs/musselmans_P12967/B_sourcizing/scenes/shot010/anm/shot010_anm.ma",
+		"/G/jobs/charlex_testAreaB_T60174/B_restructure/3d/shots/shot070/anm/test2VarInti/T60174Bshot070_anm_test2VarInti.ma"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30",
+			"key",
+			"modeling",
+			"nc =",
+			"bgc",
+			", h=",
+			"h=2",
+			"h=",
+			"w=",
+			"w",
+			"6",
+			"cs=5",
+			"nc = 4",
+			"125",
+			"RCLO",
+			"TLO",
+			"charlexTLO",
+			"width",
+			"shotFolder",
+			"name",
+			"185",
+			"4",
+			"185",
+			"clearAll",
+			"shotPath",
+			"spotRefFolder",
+			"shotName",
+			"shotNum",
+			"os.chown",
+			"os.chow",
+			"name",
+			"pi.",
+			"houdin",
+			"dict",
+			"masterAssetWindow",
+			"rngR",
+			"fpsR",
+			"resR",
+			"lowBS",
+			"upNameTFG",
+			"input",
+			"list",
+			"10",
+			"70",
+			"upJntProxyGrpCtrls",
+			"upjntProxyGrpCtrls",
+			"ntProxyGrpCtrls",
+			"200",
+			"obj",
+			"newcurve",
+			"crv",
+			"Crv",
+			"crv",
+			"Crv",
+			"crv",
+			"old",
+			"dir",
+			"numJnts",
+			"curve",
+			"jnts",
+			"Jnts",
+			"jnts",
+			"Jnts",
+			"jnts",
+			"tsIndex",
+			"dot",
+			"trnBuffer",
+			"rel",
+			"t",
+			"ro",
+			" ws=not objSpace, os=objSpace,",
+			"rz",
+			"rx",
+			"t=",
+			"t",
+			"tz",
+			"ty",
+			"tx",
+			"1]",
+			"0]",
+			"0,0",
+			"0",
+			"\"]:\n",
+			"		\n",
+			"]",
+			"0",
+			"s",
+			"r",
+			"t",
+			"s",
+			"r",
+			"t",
+			"s",
+			"r",
+			"t",
+			"1",
+			"attr",
+			"Attr",
+			"attr",
+			"Attr",
+			"attr",
+			"T",
+			"False",
+			"0",
+			"capGrp",
+			"bgc=(.2, .2,.2)",
+			"capGrp",
+			"offsetCap",
+			"{}",
+			"p2dList",
+			"fTextList",
+			"parition",
+			"offsetMult",
+			"recoIFBG",
+			"file",
+			"object",
+			"25.0",
+			"axisList[y]",
+			"lineLenIFG",
+			"numCvs",
+			"lineDenIFG",
+			"Stuff",
+			"280",
+			"cap",
+			"guideCrv",
+			"profileCrv",
+			"ctrlGrp",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"utils.chown",
+			"{0}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assetWin.py",
+					"settings":
+					{
+						"buffer_size": 52777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46674,
+								46674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19292.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shotWin.py",
+					"settings":
+					{
+						"buffer_size": 72728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assetScriptList.json",
+					"settings":
+					{
+						"buffer_size": 2242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1924,
+								1924
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "buttonsToLayout.py",
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1493,
+								1493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 223.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "createDirectories.py",
+					"settings":
+					{
+						"buffer_size": 10193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3536,
+								3536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1671.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "masterFuncs.py",
+					"settings":
+					{
+						"buffer_size": 26742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "//Bluearc/GFX/CHARLEX/SharedServices/netlogon/CHRLX3D.bat",
+					"settings":
+					{
+						"buffer_size": 2532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "//Bluearc/HOME/CHRLX/zwillie/Windows/My Documents/Downloads/4.txt",
+					"settings":
+					{
+						"buffer_size": 13216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1621,
+								1621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "chrlxFuncs.py",
+					"settings":
+					{
+						"buffer_size": 36476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35138,
+								35138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16790.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/H/development/3D/maya/maya2017/scripts/zTools/zbw_scriptList.py",
+					"settings":
+					{
+						"buffer_size": 3676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "chrlxDashboard.py",
+					"settings":
+					{
+						"buffer_size": 1548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1158,
+								1158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/H/development/3D/lib/python/chrlx/utils/pathTests.py",
+					"settings":
+					{
+						"buffer_size": 28202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16287,
+								16287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "compareSceneInfo.py",
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1513,
+								1513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "masterWin.py",
+					"settings":
+					{
+						"buffer_size": 5500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/H/development/3D/maya/maya2017/scripts/zTools/mayaDecorators.py",
+					"settings":
+					{
+						"buffer_size": 4234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 15,
+					"file": "/H/development/3D/maya/maya2017/scripts/chrlx_scripts/userSetup.mel",
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "//Bluearc/HOME/CHRLX/zwillie/Windows/Desktop/copyshottest (1).py",
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/H/development/3D/maya/maya2017/scripts/userSetup.py",
+					"settings":
+					{
+						"buffer_size": 1277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.858332693044,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"path",
+				"/H/development/3D/lib/python/chrlx/utils/paths.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}
